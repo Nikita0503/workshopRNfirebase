@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1018663276178",
+    "project_id": "rnworkshop-686e9",
+    "storage_bucket": "rnworkshop-686e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018663276178:android:401e277bfd3303cf4e204b",
+        "android_client_info": {
+          "package_name": "com.workshopvarteq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018663276178-6netcha0hduvh6g8hom0lno22mdf0vq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.workshopvarteq",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1018663276178-feii3s8nalbepvkv0evm45nb0p4hgerb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKkVGDCnXqc88geAuAX_tNc6ClKdvb8G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018663276178-feii3s8nalbepvkv0evm45nb0p4hgerb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
